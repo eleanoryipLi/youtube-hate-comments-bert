@@ -1,4 +1,4 @@
-# youtube-comment-analysis
+# youtube-hate-comments-bert
 
 A study of the hateful comments of YouTube comments. The proof of concept of this application is conducted on different sections of news including entertainment, world news, business news, sports, and science & technology. 
 
