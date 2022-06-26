@@ -11,6 +11,7 @@ Process:
 4. YouTube comments are extracted by gathering the URLs of the top 5 most popular videos in order to extract their comments using YouTube Data API. This process was done manually for the POC purpose
 
 Architecture:
+
 <img width="635" alt="Screen Shot 2022-06-26 at 8 29 22 PM" src="https://user-images.githubusercontent.com/45246464/175828955-aca5f4ac-c10d-468e-aef6-9d39d40ad7ab.png">
 
 
